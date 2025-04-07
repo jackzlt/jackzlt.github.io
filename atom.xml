@@ -6,7 +6,7 @@
   <link href="https://jackzlt.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackzlt.github.io/"/>
-  <updated>2025-04-07T02:07:39.970Z</updated>
+  <updated>2025-04-07T08:49:38.741Z</updated>
   <id>https://jackzlt.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first</title>
+    <link href="https://jackzlt.github.io/2025/04/07/first/"/>
+    <id>https://jackzlt.github.io/2025/04/07/first/</id>
+    <published>2025-04-07T08:47:26.000Z</published>
+    <updated>2025-04-07T08:49:38.741Z</updated>
+    
+    <content type="html"><![CDATA[<p>我的第一篇博客<br>一切都会有结果，它在你的手上</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我的第一篇博客&lt;br&gt;一切都会有结果，它在你的手上&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
