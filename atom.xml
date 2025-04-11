@@ -6,7 +6,7 @@
   <link href="https://jackzlt.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackzlt.github.io/"/>
-  <updated>2025-04-07T08:49:38.741Z</updated>
+  <updated>2025-04-11T09:01:35.568Z</updated>
   <id>https://jackzlt.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算器</title>
+    <link href="https://jackzlt.github.io/2025/04/11/%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
+    <id>https://jackzlt.github.io/2025/04/11/%E8%AE%A1%E7%AE%97%E5%99%A8/</id>
+    <published>2025-04-11T08:36:16.000Z</published>
+    <updated>2025-04-11T09:01:35.568Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简单计算器"><a href="#简单计算器" class="headerlink" title="简单计算器"></a>简单计算器</h1><p>这是一个使用Python和tkinter开发的简单计算器应用。</p><h2 id="功能特点"><a href="#功能特点" class="headerlink" title="功能特点"></a>功能特点</h2><ul><li>基本的数学运算（加、减、乘、除）</li><li>取余运算</li><li>正负号切换</li><li>小数点支持</li><li>清除功能</li></ul><h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><p>进入github项目中<a href="https://github.com/jackzlt/SimpleComputer">SimpleComputer</a></p><h3 id="方法1：直接使用可执行文件（推荐）"><a href="#方法1：直接使用可执行文件（推荐）" class="headerlink" title="方法1：直接使用可执行文件（推荐）"></a>方法1：直接使用可执行文件（推荐）</h3><ol><li>从发布页面下载 <code>SimpleCalculator.exe</code></li><li>双击运行即可</li></ol><h3 id="方法2：从源码安装"><a href="#方法2：从源码安装" class="headerlink" title="方法2：从源码安装"></a>方法2：从源码安装</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install .</span><br></pre></td></tr></table></figure><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><h3 id="使用可执行文件"><a href="#使用可执行文件" class="headerlink" title="使用可执行文件"></a>使用可执行文件</h3><ol><li>直接双击 <code>SimpleCalculator.exe</code> 运行</li></ol><h3 id="使用Python包"><a href="#使用Python包" class="headerlink" title="使用Python包"></a>使用Python包</h3><ol><li>在命令行中输入：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">calculator</span><br></pre></td></tr></table></figure><ol start="2"><li>或者在Python中导入：</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> calculator.main <span class="keyword">import</span> main</span><br><span class="line">main()</span><br></pre></td></tr></table></figure><h2 id="开发者说明"><a href="#开发者说明" class="headerlink" title="开发者说明"></a>开发者说明</h2><h3 id="打包成exe文件"><a href="#打包成exe文件" class="headerlink" title="打包成exe文件"></a>打包成exe文件</h3><ol><li>安装打包依赖：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install -e <span class="string">&quot;.[build]&quot;</span></span><br></pre></td></tr></table></figure><ol start="2"><li>运行打包脚本：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python build.py</span><br></pre></td></tr></table></figure><ol start="3"><li>打包完成后，可执行文件将在 <code>dist</code> 目录中</li></ol><h2 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h2><ul><li>Windows 7&#x2F;8&#x2F;10&#x2F;11</li><li>如果使用Python包方式：<ul><li>Python 3.6 或更高版本</li><li>tkinter（通常随Python一起安装）</li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;简单计算器&quot;&gt;&lt;a href=&quot;#简单计算器&quot; class=&quot;headerlink&quot; title=&quot;简单计算器&quot;&gt;&lt;/a&gt;简单计算器&lt;/h1&gt;&lt;p&gt;这是一个使用Python和tkinter开发的简单计算器应用。&lt;/p&gt;
+&lt;h2 id=&quot;功能特点&quot;&gt;&lt;a href=</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>first</title>
