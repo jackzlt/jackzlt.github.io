@@ -6,7 +6,7 @@
   <link href="https://jackzlt.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackzlt.github.io/"/>
-  <updated>2025-04-11T09:01:35.568Z</updated>
+  <updated>2025-04-21T01:52:58.429Z</updated>
   <id>https://jackzlt.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>密码破解工具</title>
+    <link href="https://jackzlt.github.io/2025/04/21/%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3%E5%B7%A5%E5%85%B7/"/>
+    <id>https://jackzlt.github.io/2025/04/21/%E5%AF%86%E7%A0%81%E7%A0%B4%E8%A7%A3%E5%B7%A5%E5%85%B7/</id>
+    <published>2025-04-21T01:34:10.000Z</published>
+    <updated>2025-04-21T01:52:58.429Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="密码破解工具"><a href="#密码破解工具" class="headerlink" title="密码破解工具"></a>密码破解工具</h1><p>github项目<a href="https://github.com/jackzlt/Password_cracker">Password_cracker</a></p><h2 id="功能概述"><a href="#功能概述" class="headerlink" title="功能概述"></a>功能概述</h2><p>一款基于Python开发的图形化密码破解工具，主要功能包括：</p><ul><li><strong>哈希破解</strong>：支持MD5&#x2F;SHA1&#x2F;SHA256&#x2F;SHA512等常见哈希算法</li><li><strong>压缩文件破解</strong>：支持ZIP&#x2F;RAR格式的加密压缩文件</li><li><strong>两种破解模式</strong>：<ul><li>字典攻击模式（推荐）</li><li>暴力破解模式</li></ul></li></ul><h2 id="系统要求"><a href="#系统要求" class="headerlink" title="系统要求"></a>系统要求</h2><ul><li>操作系统：Windows&#x2F;Linux&#x2F;macOS</li><li>Python版本：3.6+</li><li>依赖库：见<code>requirements.txt</code></li></ul><h2 id="安装指南"><a href="#安装指南" class="headerlink" title="安装指南"></a>安装指南</h2><ol><li>克隆仓库或下载源代码</li><li>安装依赖：<pre><code class="language-bash">pip install -r requirements.txt</code></pre></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;密码破解工具&quot;&gt;&lt;a href=&quot;#密码破解工具&quot; class=&quot;headerlink&quot; title=&quot;密码破解工具&quot;&gt;&lt;/a&gt;密码破解工具&lt;/h1&gt;&lt;p&gt;github项目&lt;a href=&quot;https://github.com/jackzlt/Password_c</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>计算器</title>
